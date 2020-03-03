@@ -7,6 +7,6 @@ Synthetic sound event detection dataset using Cow sound and UrbanSound8K events
 ![](CowSound_SED/1EV_CW.png) ![](CowSound_SED/2EV_CW.png) ![](CowSound_SED/3EV_CW.png)
 
 # UrbanSound8K SED audio samples
-![](UrbanSound8K SED/1EV_UR.png) 
-![](UrbanSound8K SED/2EV_UR.png) 
-![](UrbanSound8K SED/3EV_UR.png)
+![](UrbanSound8K_SED/1EV_UR.png) 
+![](UrbanSound8K_SED/2EV_UR.png) 
+![](UrbanSound8K_SED/3EV_UR.png)
